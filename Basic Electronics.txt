@@ -1,0 +1,9 @@
+A1 :- RPN - 8
+A2 :- SGS - 9
+B1 :- AVS - 9, ITS - 7, VBK - 9
+D1 :- BMM - 7
+D2 :- ITS - 7, KVN - 9, STS - 8
+E1 :- LNS - 7, RKS - 4, ACS - 9
+E2 :- BBS - 5, SPS - 6, SSS - 9
+G1 :- NKV - 8, AGS - 6, AMS - 9
+G2 :- DRS - 8, CJM - 9, AMK - 10

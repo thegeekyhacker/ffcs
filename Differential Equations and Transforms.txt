@@ -1,0 +1,6 @@
+A1+TA1+TAA1 :- RKD - 8, APS - 7, DDS - 5
+A2+TA2+TAA2 :- TRS - 8, KKS - 7, KAS - 9
+B2+TB2+TBB2 :- TKS - 7, RPS - 4, ACS - 8
+C1+TC1+TCC1 :- LNM - 9, AKS - 10, MVS - 7
+C2+TC2+TCC2 :- RBS - 5, DDS - 5, BNS - 8
+D2+TD2+TDD2 :- LPS - 6, HKN - 9, AKS - 10

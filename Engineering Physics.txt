@@ -1,0 +1,10 @@
+A1+TA1 :- AKS - 8, ACS - 9, SSS - 5
+A2+TA2 :- SCS - 7, SSS - 5, URM - 9
+B1+TB1 :- URM - 9, SRM - 7, UMK - 7
+B2+TB2 :- SRM - 7, UMK - 7, AKS - 8
+C1+TC1 :- RSB - 5
+C2+TC2 :- RSB - 5
+D1+TD1 :- RKS - 8, SMK - 9
+D2+TD2 :- SMK - 9, SCK - 7
+E1+TE1 :- RBP - 9, MWC - 7, KCC - 4
+E2+TE2 :- KCC - 4, RBP - 9, ARC - 6

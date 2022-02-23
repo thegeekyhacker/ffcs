@@ -1,0 +1,8 @@
+A1 :- JTS - 8, SKS - 7, JNS - 5
+A2 :- ADS - 10, SNS - 7, SKS - 7
+B1 :- JSM - 6, GGK - 4, MMS - 9
+B2 :- GGK - 4, JSM - 6
+C1 :- CMB - 7, SMS - 8, NPS - 8
+C2 :- SAS - 10, NPS - 8, JDS - 4
+D1 :- MVS - 5, JDA - 8, AIS - 9
+D2 :- MVS - 5, AIS - 9, PSS - 7
